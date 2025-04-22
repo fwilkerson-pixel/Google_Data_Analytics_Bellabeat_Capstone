@@ -38,9 +38,37 @@ The goal of this project is to identify current trends in smart health device us
 
 **Secondary Stakeholders:** 
  * Bellabeat marketing analytics team
-  
-## Prepare Data
-The data used in this analysis is publicly available [FitBit Fitness Tracker data](https://www.kaggle.com/datasets/arashnic/fitbit) sourced from Mobius on Kraggle
-
-
+ <br/><br/>
  
+## Data Overview
+
+### Data Source
+The dataset used in this analysis is publicly available [FitBit Fitness Tracker data](https://www.kaggle.com/datasets/arashnic/fitbit), shared by Mobius on Kaggle. It contains anonymized user information, including daily physical activity, sleep patterns, and heart rate data.  The citation to the original authors of the data is: Furberg, Robert; Brinton, Julia; Keating, Michael ; Ortiz, Alexa [https://zenodo.org/record/53894#.YMoUpnVKiP9](https://zenodo.org/record/53894#.YMoUpnVKiP9)
+
+The data was collected through a distributed survey conducted via Amazon Mechanical Turk between 03.12.2016-05.12.2016. A total of thirty eligible Fitbit users voluntarily consented to share their personal tracker data for the purposes of this study.
+
+### Data Limitations
+While the dataset provides valuable insights into user behavior with Fitbit smart devices, there are several important limitations to consider:
+
+**Source and Collection Method:**
+The data was self-reported by participants recruited via Amazon Mechanical Turk (MTurk). This platform tends to attract a specific demographic—typically younger, more tech-savvy individuals—which may introduce selection bias. Additionally, responses were collected over a short time frame (December 3–5, 2016), providing only a limited snapshot of user activity.
+
+**Sample Size:**
+Only 30 eligible Fitbit users consented to the submission of their personal activity data. This small sample size limits the statistical power of the analysis and may not fully represent the diversity of the broader smart device user base.
+
+While the sample size of 30 meets the common minimum threshold for certain types of statistical analysis, it results in a relatively large margin of error. Using a population estimate of 50 million Fitbit users in 2016 and a 90% confidence level, the margin of error for this sample is approximately ±15.07%.
+
+To reduce the margin of error to a more acceptable ±5%, a sample size of at least 273 participants would have been required. 
+
+**Data Authenticity and Precision:**
+Because the dataset is based on self-submitted data rather than data pulled directly from Fitbit’s internal systems, there may be inconsistencies or inaccuracies due to incomplete tracking or user error.
+
+**Temporal Relevance:**
+The data is from 2016, which presents a potential mismatch with current consumer behaviors and trends in 2025. Technological advances, user expectations, and health and wellness habits have likely evolved since the data was collected.
+ <br/><br/>
+
+**Despite these limitations**, I approached the analysis with careful consideration of context. Where possible, I avoided overgeneralizing and focused on **broad behavioral patterns** rather than definitive metrics. The insights and recommendations are framed with an understanding of the dataset’s constraints and should be viewed as directional rather than precise, real-time predictions.
+ <br/><br/>
+
+## Process Data
+
