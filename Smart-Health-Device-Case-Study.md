@@ -32,7 +32,15 @@ The goal of this project is to identify current trends in smart health device us
 <br/><br/>
 
 ## Stakeholders
-Executive Team
-  *
+**Primary Stakeholders:** 
+  * Urška Sršen: Bellabeat co-founder and Chief Creative Officer
+  * Sando Mur: Bellabeat co-founder
+
+**Secondary Stakeholders:** 
+ * Bellabeat marketing analytics team
+  
+## Prepare Data
+The data used in this analysis is publicly available [FitBit Fitness Tracker data](https://www.kaggle.com/datasets/arashnic/fitbit) sourced from Mobius on Kraggle
+
 
  
