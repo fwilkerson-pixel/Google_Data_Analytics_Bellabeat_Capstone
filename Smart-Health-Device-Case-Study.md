@@ -158,11 +158,74 @@ Sample...<br/><br/>
 ![image](https://github.com/user-attachments/assets/c6aff2b1-21bd-46b1-a9ca-7bdcbc23da80)
 ![image](https://github.com/user-attachments/assets/1e736c13-461d-4852-94ac-09e8cb79f10f)
 <br/><br/>
-
+**Assessment:**
 * There is a moderate negative correlation between Total Steps and Sedentary Minutes. Correlation Coefficient (r = –0.33); p-value < 2.2e-16, This is highly statistically significant — way below the 0.05 threshold, In other words: The relationship between steps and sedentary time is very unlikely to be due to chance; Confidence Interval: [-0.383, -0.269]. We are 95% confident that the true correlation lies between –0.38 and –0.27.  This reinforces that the effect is consistently negative, not a fluke
+
 * There is a statistically significant, moderately negative relationship between how many steps a person takes and how much time they spend sedentary — the more they move, the less they sit.
+
 * The moderate inverse relationship suggests users may engage in bursts of movement while still spending much of the day sedentary — consistent with patterns like office work or structured workouts."  
+
 * To confirm we will chart the Distribution of Active Minutes by Hour
+
 * If confirmed, this information could be used to target computer/desk workers, students, anyone who is sitting most of the day to get them to add more steps in their day instead of single burst of workout activity 
+<br/><br/>
+
+### Distribution of Active Minutes by Hour
+![image](https://github.com/user-attachments/assets/8c7054c8-2bc4-46b2-ac25-782c0a29f34d)
+<br/><br/>
+![image](https://github.com/user-attachments/assets/8092397b-ebf1-4725-97a8-b8b41c4ee760)
+<br/><br/>
+**Assessment:**
+* Morning spike around 7–9 AM
+
+* Evening peak from 5–8 PM
+
+* A small midday burst near noon
+
+* This information could be used to target computer/desk workers, students, anyone who is sitting most of the day to get them to add more steps in their day instead of single burst of workout activity 
+
+* Use 'Top High Intensity Workout Hours' chart to show this as it emphasizes intense workouts. Use it with 'Total Steps and Sedentary Minutes' chart. May take 'Distribution of Active Minutes by Hour' chart out.
+<br/><br/>
+
+### Time In Bed VS Total Time Asleep
+![image](https://github.com/user-attachments/assets/1fee6378-39c8-4e80-8463-883500e2965c)
+<br/><br/>
+![image](https://github.com/user-attachments/assets/0c7a48a5-8e47-49f0-8ef1-3ba138fd5bb9)
+![image](https://github.com/user-attachments/assets/30995fd2-e1f1-401a-ba9d-c73c08a00506)
+<br/><br/>
+**Assessment:**
+* The relationship between minutes asleep and time in bed: When users spend more time in bed, they generally get more sleep.
+
+* This correlation is strong. Correlation coefficient (r = 0.93) This indicates a very strong positive correlation between TotalMinutesAsleep and TotalTimeInBed. The more time a user spends in bed, the more time they tend to spend actually sleeping. An r-value this high suggests the two variables move nearly in sync; p-value < 2.2e-16 Extremely statistically significant. There’s almost no chance that this correlation occurred randomly; 95% Confidence Interval: [0.916, 0.942]. This tells us that the true correlation is very likely between 0.92 and 0.94. That’s consistently very strong no matter how you slice the data
+
+* This can also demonstrate that people are tracking their sleep activity. although using the fact that 24 unique users out of 33 total or 72.7% tracked their sleeping data is a better demonstration of this. Both can be used to demonstrate that “User behavior shows high engagement with sleep tracking features — users are not only wearing their devices at night but are generating structured, consistent sleep data. This reflects widespread interest in tracking and improving sleep quality.
+
+* Other backup data include: 95.8% of users with sleep data logged more than one night ane On average, each user logged about 17 nights of sleep.
+
+* “User behavior shows high engagement with sleep tracking features — users are not only wearing their devices at night but are generating structured, consistent sleep data. This reflects widespread interest in tracking and improving sleep quality.”
+
+* This information could be used to position your device as a sleep optimization coach, not just a passive tracker
+
+* Position devices as holistic health tools, not just fitness trackers.
+
+* Promote smart sleep features (e.g., recovery suggestions, bedtime reminders) in campaigns.
+<br/><br/>
+
+### Hourly Step Recording Activity
+![image](https://github.com/user-attachments/assets/a818e770-ac45-4089-844c-156b2f8e8968)
+<br/><br/>
+![image](https://github.com/user-attachments/assets/617aab38-dd37-4178-9a3e-ed630aff8d6c)
+<br/><br/>
+**Assessment:**
+* Steady rise starts around 6 AM
+
+* Peaks during mid-morning to early evening (9 AM to 7 PM)
+
+* Drops sharply after 9 PM, nearly flat overnight
+
+* This visual confirms that users are consistently wearing their devices across most waking hours, with natural dips during sleep.
+
+* Users are consistently wearing their devices throughout the entire day and night — not just for workouts. These devices are deeply integrated into their routines. Opportunity to market as 24/7 health tracking or Always-on wellness insights
+
 
 
