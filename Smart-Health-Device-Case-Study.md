@@ -136,10 +136,8 @@ Sample...<br/><br/>
 <br/><br/>
 
 <ins>**Quick Summary**</ins>
-<br/>
 
 Sample...<br/><br/>
-
 <ins>***daily_activity***</ins>
 
 ![image](https://github.com/user-attachments/assets/d69b1df2-ed31-40e1-b96f-e419132bc2da)
@@ -151,5 +149,6 @@ Sample...<br/><br/>
 <ins>***hourly_intensity***</ins>
 
 ![image](https://github.com/user-attachments/assets/2add441f-ab58-4a55-86ff-02d02e2ef0e8)
-
-
+ <br/><br/>
+ 
+## Data Exploration
