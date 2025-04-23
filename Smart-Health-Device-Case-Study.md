@@ -152,3 +152,17 @@ Sample...<br/><br/>
  <br/><br/>
  
 ## Data Exploration
+### Total Steps VS Sedentary Minutes
+![image](https://github.com/user-attachments/assets/b254cf09-22d4-4edf-a339-e66f22c38384)
+<br/><br/>
+![image](https://github.com/user-attachments/assets/c6aff2b1-21bd-46b1-a9ca-7bdcbc23da80)
+![image](https://github.com/user-attachments/assets/1e736c13-461d-4852-94ac-09e8cb79f10f)
+<br/><br/>
+
+* There is a moderate negative correlation between Total Steps and Sedentary Minutes. Correlation Coefficient (r = –0.33); p-value < 2.2e-16, This is highly statistically significant — way below the 0.05 threshold, In other words: The relationship between steps and sedentary time is very unlikely to be due to chance; Confidence Interval: [-0.383, -0.269]. We are 95% confident that the true correlation lies between –0.38 and –0.27.  This reinforces that the effect is consistently negative, not a fluke
+* There is a statistically significant, moderately negative relationship between how many steps a person takes and how much time they spend sedentary — the more they move, the less they sit.
+* The moderate inverse relationship suggests users may engage in bursts of movement while still spending much of the day sedentary — consistent with patterns like office work or structured workouts."  
+* To confirm we will chart the Distribution of Active Minutes by Hour
+* If confirmed, this information could be used to target computer/desk workers, students, anyone who is sitting most of the day to get them to add more steps in their day instead of single burst of workout activity 
+
+
