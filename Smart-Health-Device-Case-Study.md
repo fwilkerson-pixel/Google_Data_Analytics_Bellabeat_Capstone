@@ -73,21 +73,51 @@ The data is from 2016, which presents a potential mismatch with current consumer
 ## Process Data
 
 ### Clean and Examine Data in Google Sheets
-* Conditional Formatting was used to look for blank cells.
-* Made sure numeric fields were numeric - when importing into spreadsheet checked the box that said convert numeric values to numeric data type.
-* Checked for duplicate rows using Data >> Data Cleanup 
-* Used Conditional Formatting to create a custom formula to check for ISDATE in date columns (e.g. =ISDATE($B$2:$B$941))
-* I performed date conversion in the exploration phase below. In the future, I would handle date conversions in this step
+Initial data cleaning was conducted in Google Sheets to ensure accuracy and consistency prior to deeper analysis:
 
-### Installing Packages & Loading Libraries
+* Conditional formatting was applied to identify blank or missing cells for further review.
+* When importing the dataset, the option to automatically convert numeric values was enabled to ensure numeric fields were properly recognized.
+* Duplicate rows were identified and addressed using the Data → Data Cleanup tool.
+* To verify the validity of date fields, a custom conditional formatting formula was used: =ISDATE([range]). 
+
+While **date conversion** was ultimately performed during the exploration phase (see below), I recognize that handling date formatting at this early stage would have improved workflow efficiency. This is a noted improvement for future analyses.
+<br/><br/>
+
+### Examine Data in RStudio
+
+#### Installing Packages & Loading Libraries
 ![image](https://github.com/user-attachments/assets/2cd98e45-ddc6-4a22-ade6-d83240199a90)
 
-### Import CSV Files
+#### Import CSV Files
 
+Sample...<br/><br/>
+![image](https://github.com/user-attachments/assets/a7b27dc5-687c-490c-87d6-01b0ead18b2f)
 
-### Data Examination
-To obtain an initial overview of the dataset, the glimpse() and colnames() functions were used in RStudio to examine the structure of the data and identify available variables.
+#### Data Examination
+To obtain an additional overview of the dataset, the head(), glimpse() and colnames() functions were used in RStudio to examine the structure of the data and identify available variables.
 
+Sample...<br/><br/>
+<ins>***daily_activity***</ins>
 
+![image](https://github.com/user-attachments/assets/973dbb48-0581-437d-a865-2779cebca5cc)
+![image](https://github.com/user-attachments/assets/6f7c918e-335a-4551-a09d-cae6eca031c4)
+![image](https://github.com/user-attachments/assets/edd2ef81-005a-4536-89c2-a225f41f0394)
 
+<ins>***sleep_day***</ins>
+
+![image](https://github.com/user-attachments/assets/2b61af03-61d8-4457-857f-6ec8ba7d8457)
+![image](https://github.com/user-attachments/assets/76de451c-1c97-46de-a81f-7addcf5fc81e)
+
+<ins>***hourly_intensity***</ins>
+
+![image](https://github.com/user-attachments/assets/7afa02f8-f80c-4f4d-b62b-ad6f4305f20f)
+
+#### Check Number of Unique Participants
+
+Sample...<br/><br/>
+<ins>***daily_activity***</ins>
+
+![image](https://github.com/user-attachments/assets/07b33124-16cc-481b-9e37-d3974b4ee4d3)
+
+**Discovery:** Some participants do not have data in the sleep_day dataset
 
