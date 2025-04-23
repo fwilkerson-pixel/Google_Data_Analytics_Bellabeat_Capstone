@@ -43,7 +43,7 @@ The goal of this project is to identify current trends in smart health device us
 ## Data Overview
 
 ### Data Source
-The dataset used in this analysis is publicly available [FitBit Fitness Tracker data](https://www.kaggle.com/datasets/arashnic/fitbit), shared by Mobius on Kaggle. It contains anonymized user information, including daily physical activity, sleep patterns, and heart rate data.  The citation to the original authors of the data is: Furberg, Robert; Brinton, Julia; Keating, Michael ; Ortiz, Alexa [https://zenodo.org/record/53894#.YMoUpnVKiP9](https://zenodo.org/record/53894#.YMoUpnVKiP9)
+The dataset used in this analysis is publicly available [FitBit Fitness Tracker data](https://www.kaggle.com/datasets/arashnic/fitbit), shared by Mobius on Kaggle. It contains anonymized user information, including daily physical activity, sleep patterns, and heart rate data.  The original dataset was created by Furberg, Robert; Brinton, Julia; Keating, Michael; and Ortiz, Alexa, and is available on Zenodo:  [https://zenodo.org/record/53894#.YMoUpnVKiP9](https://zenodo.org/record/53894#.YMoUpnVKiP9)
 
 The data was collected through a distributed survey conducted via Amazon Mechanical Turk between 03.12.2016-05.12.2016. A total of thirty eligible Fitbit users voluntarily consented to share their personal tracker data for the purposes of this study.
 
@@ -71,4 +71,19 @@ The data is from 2016, which presents a potential mismatch with current consumer
  <br/><br/>
 
 ## Process Data
+
+### Clean and Examine Data in Google Sheets
+
+
+### Installing Packages & Loading Libraries
+![image](https://github.com/user-attachments/assets/2cd98e45-ddc6-4a22-ade6-d83240199a90)
+
+### Import CSV Files
+
+
+### Data Examination
+To obtain an initial overview of the dataset, the glimpse() and colnames() functions were used in RStudio to examine the structure of the data and identify available variables.
+
+
+
 
