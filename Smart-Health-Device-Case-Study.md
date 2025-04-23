@@ -84,40 +84,69 @@ While **date conversion** was ultimately performed during the exploration phase 
 <br/><br/>
 
 ### Examine Data in RStudio
+<br/>
 
-#### Installing Packages & Loading Libraries
+<ins>**Installing Packages & Loading Libraries**</ins>
+
 ![image](https://github.com/user-attachments/assets/2cd98e45-ddc6-4a22-ade6-d83240199a90)
+<br/><br/>
 
-#### Import CSV Files
+<ins>**Import CSV Files**</ins>
+<br/>
 
 Sample...<br/><br/>
 ![image](https://github.com/user-attachments/assets/a7b27dc5-687c-490c-87d6-01b0ead18b2f)
+<br/><br/>
 
-#### Data Examination
+<ins>**Data Examination**</ins>
+<br/><br/>
 To obtain an additional overview of the dataset, the head(), glimpse() and colnames() functions were used in RStudio to examine the structure of the data and identify available variables.
 
 Sample...<br/><br/>
-<ins>***daily_activity***</ins>
+***daily_activity***
 
 ![image](https://github.com/user-attachments/assets/973dbb48-0581-437d-a865-2779cebca5cc)
 ![image](https://github.com/user-attachments/assets/6f7c918e-335a-4551-a09d-cae6eca031c4)
 ![image](https://github.com/user-attachments/assets/edd2ef81-005a-4536-89c2-a225f41f0394)
 
-<ins>***sleep_day***</ins>
+***sleep_day***
 
 ![image](https://github.com/user-attachments/assets/2b61af03-61d8-4457-857f-6ec8ba7d8457)
 ![image](https://github.com/user-attachments/assets/76de451c-1c97-46de-a81f-7addcf5fc81e)
 
-<ins>***hourly_intensity***</ins>
+***hourly_intensity***
 
 ![image](https://github.com/user-attachments/assets/7afa02f8-f80c-4f4d-b62b-ad6f4305f20f)
+<br/><br/>
 
-#### Check Number of Unique Participants
+<ins>**Check Number of Unique Participants**</ins>
+<br/>
 
 Sample...<br/><br/>
-<ins>***daily_activity***</ins>
-
 ![image](https://github.com/user-attachments/assets/07b33124-16cc-481b-9e37-d3974b4ee4d3)
 
 **Discovery:** Some participants do not have data in the sleep_day dataset
+<br/><br/>
+
+<ins>**Number of Observations/Rows**</ins>
+<br/>
+
+Sample...<br/><br/>
+![image](https://github.com/user-attachments/assets/3fc0cd52-567b-4333-a90b-362210fb9ba5)
+<br/><br/>
+
+<ins>**Quick Summary**</ins>
+<br/>
+
+Sample...<br/><br/>
+
+<ins>***daily_activity***</ins>
+![image](https://github.com/user-attachments/assets/d69b1df2-ed31-40e1-b96f-e419132bc2da)
+
+<ins>***sleep_day***</ins>
+![image](https://github.com/user-attachments/assets/6e543740-73f0-4cb7-a01a-ab152bd47628)
+
+<ins>***hourly_intensity***</ins>
+![image](https://github.com/user-attachments/assets/2add441f-ab58-4a55-86ff-02d02e2ef0e8)
+
 
