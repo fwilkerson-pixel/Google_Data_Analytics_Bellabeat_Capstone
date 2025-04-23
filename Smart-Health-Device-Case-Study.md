@@ -73,7 +73,11 @@ The data is from 2016, which presents a potential mismatch with current consumer
 ## Process Data
 
 ### Clean and Examine Data in Google Sheets
-
+* Conditional Formatting was used to look for blank cells.
+* Made sure numeric fields were numeric - when importing into spreadsheet checked the box that said convert numeric values to numeric data type.
+* Checked for duplicate rows using Data >> Data Cleanup 
+* Used Conditional Formatting to create a custom formula to check for ISDATE in date columns (e.g. =ISDATE($B$2:$B$941))
+* I performed date conversion in the exploration phase below. In the future, I would handle date conversions in this step
 
 ### Installing Packages & Loading Libraries
 ![image](https://github.com/user-attachments/assets/2cd98e45-ddc6-4a22-ade6-d83240199a90)
