@@ -141,12 +141,15 @@ Sample...<br/><br/>
 Sample...<br/><br/>
 
 <ins>***daily_activity***</ins>
+
 ![image](https://github.com/user-attachments/assets/d69b1df2-ed31-40e1-b96f-e419132bc2da)
 
 <ins>***sleep_day***</ins>
+
 ![image](https://github.com/user-attachments/assets/6e543740-73f0-4cb7-a01a-ab152bd47628)
 
 <ins>***hourly_intensity***</ins>
+
 ![image](https://github.com/user-attachments/assets/2add441f-ab58-4a55-86ff-02d02e2ef0e8)
 
 
