@@ -183,7 +183,8 @@ Sample...<br/><br/>
 
 * A small midday burst near noon
 
-* This supports the hypothesis in the section "Total Steps VS Sedentary Minutes, that users engage in bursts of movement while still spending much of the day sedentary — consistent with patterns like office work. This information could be used to target computer/desk workers, students, anyone who is sitting most of the day to get them to add more steps in their day.
+* This supports the hypothesis in the section "Total Steps VS Sedentary Minutes, that users engage in bursts of movement while still spending much of the day sedentary — consistent with patterns like office work. This information could be used to target computer/desk workers (office/remote workers), students, anyone who is sitting most of the day to get them to add more steps in their day.
+
 * This also fits with known user behavior from health studies & wearables:
   * Morning workout → Sit at desk all day
   * Evening run → Sedentary most of the day
@@ -202,9 +203,25 @@ Sample...<br/><br/>
     
 * In contrast, early morning (before 6 AM) and late night (after 9 PM) had very few high intensity workout periods.
   
-* This supports the hypothesis in the section "Total Steps VS Sedentary Minutes, that users engage in bursts of movement while still spending much of the day sedentary — consistent with patterns like office work. This information could be used to target computer/desk workers, students, anyone who is sitting most of the day to get them to add more steps in their day. This information could be used to target computer/desk workers, students, anyone who is sitting most of the day to get them to add more steps in their day.
+* This supports the hypothesis in the section "Total Steps VS Sedentary Minutes, that users engage in bursts of movement while still spending much of the day sedentary — consistent with patterns like office work. This information could be used to target computer/desk workers (office/remote workers), students, anyone who is sitting most of the day to get them to add more steps in their day. This information could be used to target computer/desk workers, students, anyone who is sitting most of the day to get them to add more steps in their day.
 
 * These times can also be an opportunity to market to people when they are most active on their phones tracking stats during high intensity workouts.
+<br/><br/>
+
+### Top Moderate to Intense Workout Hours
+![image](https://github.com/user-attachments/assets/6d9615bd-3790-4c43-9b07-c5d6335f9318)
+<br/><br/>
+![image](https://github.com/user-attachments/assets/7aa3d221-6c66-4e88-b0a7-e2f03dcc2396)
+<br/><br/>
+**Assessment:**
+* The most active workout hours across all users were:
+  * 6–8 PM (peaking at 6 PM with 362 workouts)
+  * 5–6 PM and 7–8 PM are also high, suggesting after-work activity
+  * 12–2 PM also show strong midday activity bursts
+    
+* Early morning (before 6 AM) and late night (after 9 PM) had very few workout periods.
+  
+* Market to people when they are most active on their phones tracking stats.
 <br/><br/>
 
 ### Top High Intensity Workout Days
@@ -216,6 +233,23 @@ Sample...<br/><br/>
 * Average Very Active Minutes — highest on Monday and Tuesday.
 * There is an opportunity to market to people on Monday and Tuesdays from 12-2pm and 6-8pm when they are most likely to be on their phones tracking their activity
 * There is an opportunity to start Challenges during these times as well
+<br/><br/>
+
+### Hourly Step Recording Activity
+![image](https://github.com/user-attachments/assets/a818e770-ac45-4089-844c-156b2f8e8968)
+<br/><br/>
+![image](https://github.com/user-attachments/assets/617aab38-dd37-4178-9a3e-ed630aff8d6c)
+<br/><br/>
+**Assessment:**
+* Steady rise starts around 6 AM
+
+* Peaks during mid-morning to early evening (9 AM to 7 PM)
+
+* Drops sharply after 9 PM, nearly flat overnight
+
+* This visual confirms that users are consistently wearing their devices across most waking hours, with natural dips during sleep.
+
+* Users are consistently wearing their devices throughout the entire day and night — not just for workouts. These devices are deeply integrated into their routines. Opportunity to market as 24/7 health tracking or Always-on wellness insights
 <br/><br/>
 
 ### Time In Bed VS Total Time Asleep
@@ -242,41 +276,6 @@ Sample...<br/><br/>
 * Promote smart sleep features (e.g., recovery suggestions, bedtime reminders) in campaigns.
 <br/><br/>
 
-### Hourly Step Recording Activity
-![image](https://github.com/user-attachments/assets/a818e770-ac45-4089-844c-156b2f8e8968)
-<br/><br/>
-![image](https://github.com/user-attachments/assets/617aab38-dd37-4178-9a3e-ed630aff8d6c)
-<br/><br/>
-**Assessment:**
-* Steady rise starts around 6 AM
-
-* Peaks during mid-morning to early evening (9 AM to 7 PM)
-
-* Drops sharply after 9 PM, nearly flat overnight
-
-* This visual confirms that users are consistently wearing their devices across most waking hours, with natural dips during sleep.
-
-* Users are consistently wearing their devices throughout the entire day and night — not just for workouts. These devices are deeply integrated into their routines. Opportunity to market as 24/7 health tracking or Always-on wellness insights
-<br/><br/>
-
-### Top Moderate to Intense Workout Hours
-![image](https://github.com/user-attachments/assets/6d9615bd-3790-4c43-9b07-c5d6335f9318)
-<br/><br/>
-![image](https://github.com/user-attachments/assets/7aa3d221-6c66-4e88-b0a7-e2f03dcc2396)
-<br/><br/>
-**Assessment:**
-* The most active workout hours across all users were:
-  * 6–8 PM (peaking at 6 PM with 362 workouts)
-  * 5–6 PM and 7–8 PM are also high, suggesting after-work activity
-  * 12–2 PM also show strong midday activity bursts
-    
-* Early morning (before 6 AM) and late night (after 9 PM) had very few workout periods.
-  
-* Market to people when they are most active on their phones tracking stats.
-<br/><br/>
-
-
-
 ### Calories Burned VS Sleep Efficiency
 ![image](https://github.com/user-attachments/assets/6bb25cd9-9469-4a15-bf03-d506f03f25d2)
 ![image](https://github.com/user-attachments/assets/23bf0d3a-6b75-4cd9-93c7-2056b15b0e76)
@@ -293,7 +292,7 @@ Sample...<br/><br/>
 
 * This supports marketing claims like: “More active days could contribute to better sleep quality.”
 
-
+## Data Exploration
 
 
 
