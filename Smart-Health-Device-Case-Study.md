@@ -28,7 +28,7 @@ The findings and recommendations presented here are intended for Bellabeat’s e
 <br/><br/>
 
 ## Business Task
-The goal of this project is to identify current trends in smart health device usage.  This information will be used to give high-level recommendations for how these trends can inform Bellabeat marketing strategy going forward for one Bellabeat product. 
+The goal of this project is to analyze current trends in smart health device usage and provide high-level, data-driven recommendations to support Bellabeat’s marketing strategy. These insights will specifically inform strategic planning for the Bellabeat mobile app, helping the company better engage users and promote wellness through personalized digital experiences.
 <br/><br/>
 
 ## Stakeholders
@@ -226,6 +226,70 @@ Sample...<br/><br/>
 * This visual confirms that users are consistently wearing their devices across most waking hours, with natural dips during sleep.
 
 * Users are consistently wearing their devices throughout the entire day and night — not just for workouts. These devices are deeply integrated into their routines. Opportunity to market as 24/7 health tracking or Always-on wellness insights
+<br/><br/>
+
+### Top Moderate to Intense Workout Hours
+![image](https://github.com/user-attachments/assets/6d9615bd-3790-4c43-9b07-c5d6335f9318)
+<br/><br/>
+![image](https://github.com/user-attachments/assets/7aa3d221-6c66-4e88-b0a7-e2f03dcc2396)
+<br/><br/>
+**Assessment:**
+* The most active workout hours across all users were:
+  * 6–8 PM (peaking at 6 PM with 362 workouts)
+  * 5–6 PM and 7–8 PM are also high, suggesting after-work activity
+  * 12–2 PM also show strong midday activity bursts
+    
+* Early morning (before 6 AM) and late night (after 9 PM) had very few workout periods.
+  
+* Market to people when they are most active on their phones tracking stats.
+<br/><br/>
+
+### Top High Intensity Workout Hours
+![image](https://github.com/user-attachments/assets/ae8fea27-6620-40ac-b0ca-2028a90a1672)
+<br/><br/>
+![image](https://github.com/user-attachments/assets/e9dc6a61-00be-4a56-b55f-2df5921b934c)
+<br/><br/>
+**Assessment:**
+* The most high intensity workout hours across all users were:
+  * 5–7 PM and are high, suggesting after-work activity
+  * 12–2 PM also show strong midday activity bursts
+    
+* In contrast, early morning (before 6 AM) and late night (after 9 PM) had very few high intensity workout periods.
+  
+* Market to people when they are most active on their phones tracking stats.
+  
+* This information could be used to target computer/desk workers, students, anyone who is sitting most of the day to get them to add more steps in their day instead of single burst of workout activity
+<br/><br/>
+
+### Top High Intensity Workout Days
+![image](https://github.com/user-attachments/assets/1f6be26c-0249-431c-a462-f679de13a959)
+<br/><br/>
+![image](https://github.com/user-attachments/assets/9760a38c-11dc-47bd-90f1-f78a346f4453)
+<br/><br/>
+**Assessment:**
+* Average Very Active Minutes — highest on Monday and Tuesday.
+* There is an opportunity to market to people on Monday and Tuesdays from 12-2pm and 6-8pm when they are most likely to be on their phones tracking their activity
+* There is an opportunity to start Challenges during these times as well
+<br/><br/>
+
+### Calories Burned VS Sleep Efficiency
+![image](https://github.com/user-attachments/assets/6bb25cd9-9469-4a15-bf03-d506f03f25d2)
+![image](https://github.com/user-attachments/assets/23bf0d3a-6b75-4cd9-93c7-2056b15b0e76)
+<br/><br/>
+![image](https://github.com/user-attachments/assets/70650011-0b5a-417e-9b8b-b7b31237f621)
+![image](https://github.com/user-attachments/assets/11556d6c-2c8b-4b35-ba0b-f8cbd2b843da)
+<br/><br/>
+**Assessment:**
+* There’s a moderate positive trend: higher calorie expenditure is generally associated with more efficient sleep.
+
+* This supports the idea that physical activity may help improve sleep quality, which can be used as a wellness feature highlight.
+
+* Correlation Coefficient is 0.29 with a p-value = 1.14e-09 (Statistically significant (way below 0.05) showing that this correlation is very unlikely to be due to chance). Also we can be 95% confident the true correlation lies between 0.20 and 0.38
+
+* This supports marketing claims like: “More active days could contribute to better sleep quality.”
+
+
+
 
 
 
