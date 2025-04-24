@@ -159,15 +159,16 @@ Sample...<br/><br/>
 ![image](https://github.com/user-attachments/assets/1e736c13-461d-4852-94ac-09e8cb79f10f)
 <br/><br/>
 **Assessment:**
-* There is a moderate negative correlation between Total Steps and Sedentary Minutes. Correlation Coefficient (r = –0.33); p-value < 2.2e-16, This is highly statistically significant — way below the 0.05 threshold, In other words: The relationship between steps and sedentary time is very unlikely to be due to chance; Confidence Interval: [-0.383, -0.269]. We are 95% confident that the true correlation lies between –0.38 and –0.27.  This reinforces that the effect is consistently negative, not a fluke
+* There is a moderate negative correlation between Total Steps and Sedentary Minutes. Correlation Coefficient (r = –0.33); p-value < 2.2e-16, This is highly statistically significant — way below the 0.05 threshold, In other words: The relationship between steps and sedentary time is very unlikely to be due to chance; Confidence Interval: [-0.383, -0.269]. We are 95% confident that the true correlation lies between –0.38 and –0.27.  This reinforces that the effect is consistently negative, not a fluke.
 
-* There is a statistically significant, moderately negative relationship between how many steps a person takes and how much time they spend sedentary — the more they move, the less they sit.
-
-* The moderate inverse relationship suggests users may engage in bursts of movement while still spending much of the day sedentary — consistent with patterns like office work or structured workouts."  
-
-* To confirm we will chart the Distribution of Active Minutes by Hour
-
-* If confirmed, this information could be used to target computer/desk workers, students, anyone who is sitting most of the day to get them to add more steps in their day instead of single burst of workout activity 
+* The correlation between Total Steps and Sedentary Minutes: r = –0.33
+  * This means: As people take more steps, they generally spend less time being sedentary. This makes intuitive sense — higher step counts = less time sitting
+  * However, this is a **moderate** negative correlation. It is not weak, but it is not strongly inverse either.
+    * If the correlation were strongly negative (say, r = –0.8), that would suggest: "Users who walk a lot almost never sit for long."
+    * But with r = –0.33, we’re seeing: "Users who take more steps tend to sit less — but not dramatically so."
+  * This moderate inverse relationship suggests users may engage in bursts of movement while still spending much of the day sedentary — consistent with patterns like office work or structured workouts."  
+  * To confirm, I will chart the 'Distribution of Active Minutes by Hour' AND 'Top High Intensity Workout Hours'.
+  * If confirmed, this information could be used to target computer/desk workers, students, anyone who is sitting most of the day to get them to add more steps in their day instead of single burst of workout activity. 
 <br/><br/>
 
 ### Distribution of Active Minutes by Hour
@@ -182,9 +183,35 @@ Sample...<br/><br/>
 
 * A small midday burst near noon
 
-* This information could be used to target computer/desk workers, students, anyone who is sitting most of the day to get them to add more steps in their day instead of single burst of workout activity 
+* This supports the hypothesis in the section "Total Steps VS Sedentary Minutes, that users engage in bursts of movement while still spending much of the day sedentary — consistent with patterns like office work. This information could be used to target computer/desk workers, students, anyone who is sitting most of the day to get them to add more steps in their day.
+<br/><br/>
 
-* Use 'Top High Intensity Workout Hours' chart to show this as it emphasizes intense workouts. Use it with 'Total Steps and Sedentary Minutes' chart. May take 'Distribution of Active Minutes by Hour' chart out.
+### Top High Intensity Workout Hours
+![image](https://github.com/user-attachments/assets/ae8fea27-6620-40ac-b0ca-2028a90a1672)
+<br/><br/>
+![image](https://github.com/user-attachments/assets/e9dc6a61-00be-4a56-b55f-2df5921b934c)
+<br/><br/>
+**Assessment:**
+* The most high intensity workout hours across all users were:
+  * 5–7 PM and are high, suggesting after-work activity
+  * 12–2 PM also show strong midday activity bursts
+    
+* In contrast, early morning (before 6 AM) and late night (after 9 PM) had very few high intensity workout periods.
+  
+* This supports the hypothesis in the section "Total Steps VS Sedentary Minutes, that users engage in bursts of movement while still spending much of the day sedentary — consistent with patterns like office work. This information could be used to target computer/desk workers, students, anyone who is sitting most of the day to get them to add more steps in their day. This information could be used to target computer/desk workers, students, anyone who is sitting most of the day to get them to add more steps in their day.
+
+* These times can also be an opportunity to market to people when they are most active on their phones tracking stats during high intensity workouts.
+<br/><br/>
+
+### Top High Intensity Workout Days
+![image](https://github.com/user-attachments/assets/1f6be26c-0249-431c-a462-f679de13a959)
+<br/><br/>
+![image](https://github.com/user-attachments/assets/9760a38c-11dc-47bd-90f1-f78a346f4453)
+<br/><br/>
+**Assessment:**
+* Average Very Active Minutes — highest on Monday and Tuesday.
+* There is an opportunity to market to people on Monday and Tuesdays from 12-2pm and 6-8pm when they are most likely to be on their phones tracking their activity
+* There is an opportunity to start Challenges during these times as well
 <br/><br/>
 
 ### Time In Bed VS Total Time Asleep
@@ -244,33 +271,7 @@ Sample...<br/><br/>
 * Market to people when they are most active on their phones tracking stats.
 <br/><br/>
 
-### Top High Intensity Workout Hours
-![image](https://github.com/user-attachments/assets/ae8fea27-6620-40ac-b0ca-2028a90a1672)
-<br/><br/>
-![image](https://github.com/user-attachments/assets/e9dc6a61-00be-4a56-b55f-2df5921b934c)
-<br/><br/>
-**Assessment:**
-* The most high intensity workout hours across all users were:
-  * 5–7 PM and are high, suggesting after-work activity
-  * 12–2 PM also show strong midday activity bursts
-    
-* In contrast, early morning (before 6 AM) and late night (after 9 PM) had very few high intensity workout periods.
-  
-* Market to people when they are most active on their phones tracking stats.
-  
-* This information could be used to target computer/desk workers, students, anyone who is sitting most of the day to get them to add more steps in their day instead of single burst of workout activity
-<br/><br/>
 
-### Top High Intensity Workout Days
-![image](https://github.com/user-attachments/assets/1f6be26c-0249-431c-a462-f679de13a959)
-<br/><br/>
-![image](https://github.com/user-attachments/assets/9760a38c-11dc-47bd-90f1-f78a346f4453)
-<br/><br/>
-**Assessment:**
-* Average Very Active Minutes — highest on Monday and Tuesday.
-* There is an opportunity to market to people on Monday and Tuesdays from 12-2pm and 6-8pm when they are most likely to be on their phones tracking their activity
-* There is an opportunity to start Challenges during these times as well
-<br/><br/>
 
 ### Calories Burned VS Sleep Efficiency
 ![image](https://github.com/user-attachments/assets/6bb25cd9-9469-4a15-bf03-d506f03f25d2)
