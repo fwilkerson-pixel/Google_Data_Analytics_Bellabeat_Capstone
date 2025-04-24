@@ -151,7 +151,7 @@ Sample...<br/><br/>
 ![image](https://github.com/user-attachments/assets/2add441f-ab58-4a55-86ff-02d02e2ef0e8)
  <br/><br/>
  
-## Data Exploration
+## Data Exploration and Visualization
 ### Total Steps VS Sedentary Minutes
 ![image](https://github.com/user-attachments/assets/b254cf09-22d4-4edf-a339-e66f22c38384)
 <br/><br/>
@@ -293,9 +293,9 @@ Sample...<br/><br/>
 * Correlation Coefficient is 0.29 with a p-value = 1.14e-09 (Statistically significant (way below 0.05) showing that this correlation is very unlikely to be due to chance). Also we can be 95% confident the true correlation lies between 0.20 and 0.38
 
 * This supports marketing claims like: “More active days could contribute to better sleep quality.”
+<br/><br/>
 
-## Data Exploration
-### Data Based Conclusions:
+## Analysis Based Conclusions
 * Users engage in bursts of movement while still spending much of the day sedentary - consistent with patterns like computer/desk work (e.g office/remote worker or student)
  
 * Activity spikes occured during the following times: (Includes both steps and high intensity workouts)
@@ -311,6 +311,12 @@ Sample...<br/><br/>
 
 * Very Active Minutes where highest on Monday and Tuesday.
 
+* Users are consistently wearing their devices throughout the entire day and night — not just for workouts. These devices are deeply integrated into their routines.
+  
+* User behavior shows high engagement with sleep tracking features — users are not only wearing their devices at night but are generating structured, consistent sleep data. This reflects widespread interest in tracking and improving sleep quality.
+
+* Higher calorie expenditure is associated with more efficient sleep.
+
 
 ### Recommendations
 * Create app notifications for office/remote works and students. Inactivity reminders and smart nudges can target the most common times these users are sedentary during the day. This will motivate them to stay consistently active throughout the day. (e.g. every hour get up and walk a flight of stairs)
@@ -320,6 +326,14 @@ Marketing Message:
 * Push marketing information to users when they are most likely to be on the app tracking their activity.  These key times are Monday and Tuesdays from 12-2PM and 5-7PM.
 
 * Start User Challenges when they are most likely to be on the app tracking their activity.  These key times are Monday and Tuesdays from 12-2PM and 5-7PM.
+
+* Because users are consistently wearing their devices throughout the entire day and night, There is an opportunity to market the app as Always-on wellness insights.  Highlight "all-day insights" in product messaging — not just workouts.
+
+* Users had high engagement with sleep tracking features. This offers an opportunity for the app to be positioned as a sleep optimization coach and a holistic health tool, not just a passive tracker. This is also an opportunity to create smart sleep features (e.g., recovery suggestions, bedtime reminders).
+
+* Because higher caloric expendature is associated with more effecient sleep, Bellabeat can market around the idea that “More active days could contribute to better sleep quality.”
+
+
   
 
 
