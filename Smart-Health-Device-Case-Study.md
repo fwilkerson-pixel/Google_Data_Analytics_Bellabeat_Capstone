@@ -184,6 +184,10 @@ Sample...<br/><br/>
 * A small midday burst near noon
 
 * This supports the hypothesis in the section "Total Steps VS Sedentary Minutes, that users engage in bursts of movement while still spending much of the day sedentary — consistent with patterns like office work. This information could be used to target computer/desk workers, students, anyone who is sitting most of the day to get them to add more steps in their day.
+* This also fits with known user behavior from health studies & wearables:
+  * Morning workout → Sit at desk all day
+  * Evening run → Sedentary most of the day
+    * Brickwood, K. J., Watson, G., O'Brien, J., & Williams, A. D. (2019). Consumer-based wearable activity trackers increase physical activity participation: Systematic review and meta-analysis. JMIR mHealth and uHealth, 7(4), e11819. https://doi.org/10.2196/11819
 <br/><br/>
 
 ### Top High Intensity Workout Hours
