@@ -198,14 +198,14 @@ Sample...<br/><br/>
 <br/><br/>
 **Assessment:**
 * The most high intensity workout hours across all users were:
-  * 5–7 PM and are high, suggesting after-work activity
+  * 5–7 PM suggesting after-work activity
   * 12–2 PM also show strong midday activity bursts
     
 * In contrast, early morning (before 6 AM) and late night (after 9 PM) had very few high intensity workout periods.
   
-* This supports the hypothesis in the section "Total Steps VS Sedentary Minutes, that users engage in bursts of movement while still spending much of the day sedentary — consistent with patterns like office work. This information could be used to target computer/desk workers (office/remote workers), students, anyone who is sitting most of the day to get them to add more steps in their day. This information could be used to target computer/desk workers, students, anyone who is sitting most of the day to get them to add more steps in their day.
+* The spikes support the hypothesis, in the section "Total Steps VS Sedentary Minutes, that users engage in bursts of movement while still spending much of the day sedentary — consistent with patterns like office work. This information could be used to target computer/desk workers (office/remote workers), students, anyone who is sitting most of the day to get them to add more steps in their day. This information could be used to target computer/desk workers, students, anyone who is sitting most of the day to get them to add more steps in their day.
 
-* These times can also be an opportunity to market to people when they are most active on their phones tracking stats during high intensity workouts.
+* These high peak times can also be an opportunity to market to people when they are most active on their phones tracking stats during high intensity workouts.
 <br/><br/>
 
 ### Top Moderate to Intense Workout Hours
@@ -220,8 +220,10 @@ Sample...<br/><br/>
   * 12–2 PM also show strong midday activity bursts
     
 * Early morning (before 6 AM) and late night (after 9 PM) had very few workout periods.
-  
-* Market to people when they are most active on their phones tracking stats.
+
+* The spikes support the hypothesis, in the section "Total Steps VS Sedentary Minutes, that users engage in bursts of movement while still spending much of the day sedentary — consistent with patterns like office work. This information could be used to target computer/desk workers (office/remote workers), students, anyone who is sitting most of the day to get them to add more steps in their day. This information could be used to target computer/desk workers, students, anyone who is sitting most of the day to get them to add more steps in their day.
+
+* These high peak times can also be an opportunity to market to people when they are most active on their phones tracking stats during high intensity workouts.
 <br/><br/>
 
 ### Top High Intensity Workout Days
@@ -293,7 +295,32 @@ Sample...<br/><br/>
 * This supports marketing claims like: “More active days could contribute to better sleep quality.”
 
 ## Data Exploration
+### Data Based Conclusions:
+* Users engage in bursts of movement while still spending much of the day sedentary - consistent with patterns like computer/desk work (e.g office/remote worker or student)
+ 
+* Activity spikes occured during the following times: (Includes both steps and high intensity workouts)
+ 	* Morning spike around 7-9 AM
+ 	* Small midday burst near noon
+ 	* Evening peak from 5 - 8 PM
+ 	
+* The top high intensity workout hours were: (Includes high intensity workouts only)
+	 * 5-7 PM suggesting after-work activity
+  * 12-2 PM showing strong midday activity bursts, suggesting workouts during lunch
+  	
+* In contrast, early morning (before 6 AM) and late night (after 9 PM) had very few high intensity workout periods.
 
+* Very Active Minutes where highest on Monday and Tuesday.
+
+
+### Recommendations
+* Create app notifications for office/remote works and students. Inactivity reminders and smart nudges can target the most common times these users are sedentary during the day. This will motivate them to stay consistently active throughout the day. (e.g. every hour get up and walk a flight of stairs)
+Marketing Message:
+"Boost your daily movement, even when your work keeps you in a chair."
+
+* Push marketing information to users when they are most likely to be on the app tracking their activity.  These key times are Monday and Tuesdays from 12-2PM and 5-7PM.
+
+* Start User Challenges when they are most likely to be on the app tracking their activity.  These key times are Monday and Tuesdays from 12-2PM and 5-7PM.
+  
 
 
 
