@@ -43,6 +43,8 @@ The goal of this project is to analyze current trends in smart health device usa
 <br/><br/>
 
 ## Stakeholders
+[Back To Top](#bellabeat-capstone-case-study)
+<br/><br/>
 **Primary Stakeholders:** 
   * Urška Sršen: Bellabeat co-founder and Chief Creative Officer
   * Sando Mur: Bellabeat co-founder
@@ -52,7 +54,8 @@ The goal of this project is to analyze current trends in smart health device usa
  <br/><br/>
  
 ## Data Overview
-
+[Back To Top](#bellabeat-capstone-case-study)
+<br/><br/>
 ### Data Source
 The dataset used in this analysis is publicly available [FitBit Fitness Tracker data](https://www.kaggle.com/datasets/arashnic/fitbit), shared by Mobius on Kaggle. It contains anonymized user information, including daily physical activity, sleep patterns, and heart rate data.  The original dataset was created by Furberg, Robert; Brinton, Julia; Keating, Michael; and Ortiz, Alexa, and is available on Zenodo:  [https://zenodo.org/record/53894#.YMoUpnVKiP9](https://zenodo.org/record/53894#.YMoUpnVKiP9)
 
@@ -82,7 +85,8 @@ The data is from 2016, which presents a potential mismatch with current consumer
  <br/><br/>
 
 ## Data Processing
-
+[Back To Top](#bellabeat-capstone-case-study)
+<br/><br/>
 ### Clean and Examine Data in Google Sheets
 Initial data cleaning was conducted in Google Sheets to ensure accuracy and consistency prior to deeper analysis:
 
@@ -163,6 +167,8 @@ Sample...<br/><br/>
  <br/><br/>
  
 ## Data Exploration and Visualization
+[Back To Top](#bellabeat-capstone-case-study)
+<br/><br/>
 ### Total Steps VS Sedentary Minutes
 ![image](https://github.com/user-attachments/assets/b254cf09-22d4-4edf-a339-e66f22c38384)
 <br/><br/>
@@ -317,7 +323,8 @@ Sample...<br/><br/>
 <br/><br/>
 
 ## Conclusions and Recommendations
-
+[Back To Top](#bellabeat-capstone-case-study)
+<br/><br/>
 ### Conclusions
 * Users engage in bursts of movement while still spending much of the day sedentary - consistent with patterns like computer/desk work (e.g office/remote worker or student)
  
