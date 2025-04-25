@@ -37,6 +37,7 @@ The findings and recommendations presented here are intended for Bellabeat’s e
 <br/><br/>
 
 ## Business Task
+[Back To Top](#bellabeat-capstone-case-study)
 The goal of this project is to analyze current trends in smart health device usage and provide high-level, data-driven recommendations to support Bellabeat’s marketing strategy. These insights will specifically inform strategic planning for the Bellabeat mobile app, helping the company better engage users and promote wellness through personalized digital experiences.
 <br/><br/>
 
