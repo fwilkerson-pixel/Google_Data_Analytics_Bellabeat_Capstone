@@ -315,6 +315,8 @@ Sample...<br/><br/>
 <br/><br/>
 
 ## Conclusions and Recommendations
+
+### Conclusions
 * Users engage in bursts of movement while still spending much of the day sedentary - consistent with patterns like computer/desk work (e.g office/remote worker or student)
  
 * Activity spikes occured during the following times: (Includes both steps and high intensity workouts)
