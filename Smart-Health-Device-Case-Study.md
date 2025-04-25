@@ -13,6 +13,8 @@
 [Conclusions and Recommendations](#conclusions-and-recommendations)
 
 ## Introduction
+[Back To Top](#bellabeat-capstone-case-study)
+<br/><br/>
 Founded in 2013, Bellabeat is a health-focused, high-tech company that designs smart wellness products specifically for women. While Bellabeat has found success as a small player in the market, it has the potential to expand its footprint in the growing global smart device industry.
 
 In this case study, I was tasked with analyzing external smart device usage data to uncover patterns and trends in consumer behavior. The goal of this analysis is to generate actionable insights that can inform Bellabeat’s marketing strategy and support data-driven decision-making.
@@ -55,7 +57,7 @@ The goal of this project is to analyze current trends in smart health device usa
  
 ## Data Overview
 [Back To Top](#bellabeat-capstone-case-study)
-<br/><br/>
+<br/>
 ### Data Source
 The dataset used in this analysis is publicly available [FitBit Fitness Tracker data](https://www.kaggle.com/datasets/arashnic/fitbit), shared by Mobius on Kaggle. It contains anonymized user information, including daily physical activity, sleep patterns, and heart rate data.  The original dataset was created by Furberg, Robert; Brinton, Julia; Keating, Michael; and Ortiz, Alexa, and is available on Zenodo:  [https://zenodo.org/record/53894#.YMoUpnVKiP9](https://zenodo.org/record/53894#.YMoUpnVKiP9)
 
@@ -86,7 +88,7 @@ The data is from 2016, which presents a potential mismatch with current consumer
 
 ## Data Processing
 [Back To Top](#bellabeat-capstone-case-study)
-<br/><br/>
+<br/>
 ### Clean and Examine Data in Google Sheets
 Initial data cleaning was conducted in Google Sheets to ensure accuracy and consistency prior to deeper analysis:
 
@@ -168,7 +170,7 @@ Sample...<br/><br/>
  
 ## Data Exploration and Visualization
 [Back To Top](#bellabeat-capstone-case-study)
-<br/><br/>
+<br/>
 ### Total Steps VS Sedentary Minutes
 ![image](https://github.com/user-attachments/assets/b254cf09-22d4-4edf-a339-e66f22c38384)
 <br/><br/>
@@ -324,7 +326,7 @@ Sample...<br/><br/>
 
 ## Conclusions and Recommendations
 [Back To Top](#bellabeat-capstone-case-study)
-<br/><br/>
+<br/>
 ### Conclusions
 * Users engage in bursts of movement while still spending much of the day sedentary - consistent with patterns like computer/desk work (e.g office/remote worker or student)
  
