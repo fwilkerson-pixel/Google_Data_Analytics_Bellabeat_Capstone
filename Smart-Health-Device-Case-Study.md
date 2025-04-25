@@ -314,7 +314,7 @@ Sample...<br/><br/>
 * This supports marketing claims like: “More active days could contribute to better sleep quality.”
 <br/><br/>
 
-## Analysis Based Conclusions
+## Conclusions and Recommendations
 * Users engage in bursts of movement while still spending much of the day sedentary - consistent with patterns like computer/desk work (e.g office/remote worker or student)
  
 * Activity spikes occured during the following times: (Includes both steps and high intensity workouts)
