@@ -79,7 +79,7 @@ The data is from 2016, which presents a potential mismatch with current consumer
 **Despite these limitations**, I approached the analysis with careful consideration of context. Where possible, I avoided overgeneralizing and focused on **broad behavioral patterns** rather than definitive metrics. The insights and recommendations are framed with an understanding of the dataset’s constraints and should be viewed as directional rather than precise, real-time predictions.
  <br/><br/>
 
-## Process Data
+## Data Processing
 
 ### Clean and Examine Data in Google Sheets
 Initial data cleaning was conducted in Google Sheets to ensure accuracy and consistency prior to deeper analysis:
