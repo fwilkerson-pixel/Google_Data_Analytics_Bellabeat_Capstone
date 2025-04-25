@@ -3,6 +3,15 @@
 ##### Author: F. Wilkerson
 ##### Date: 02/20/2025
 
+## Table of Contents
+[Introduction](#introduction)<br/>
+[Business Task](#business-task)<br/>
+[Stakeholders](#stakeholders)<br/>
+[Data Overview](#data-overview)<br/>
+[Data Processing](#data-processing)<br/>
+[Data Exploration and Visualization](#data-exploration-and-visualization)<br/>
+[Conclusions and Recommendations](#conclusions-and-recommendations)
+
 ## Introduction
 Founded in 2013, Bellabeat is a health-focused, high-tech company that designs smart wellness products specifically for women. While Bellabeat has found success as a small player in the market, it has the potential to expand its footprint in the growing global smart device industry.
 
