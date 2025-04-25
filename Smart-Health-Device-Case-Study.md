@@ -167,8 +167,16 @@ Sample...<br/><br/>
     * If the correlation were strongly negative (say, r = –0.8), that would suggest: "Users who walk a lot almost never sit for long."
     * But with r = –0.33, we’re seeing: "Users who take more steps tend to sit less — but not dramatically so."
   * This moderate inverse relationship suggests users may engage in bursts of movement while still spending much of the day sedentary — consistent with patterns like office work or structured workouts."  
-  * To confirm, I will chart the 'Distribution of Active Minutes by Hour' AND 'Top High Intensity Workout Hours'.
+  * To confirm, I will chart 'Activity Percentages By Activity Intensity', 'Distribution of Active Minutes by Hour' AND 'Top High Intensity Workout Hours'.
   * If confirmed, this information could be used to target computer/desk workers, students, anyone who is sitting most of the day to get them to add more steps in their day instead of single burst of workout activity. 
+<br/><br/>
+
+### Activity Minutes By Activity Intensity
+![image](https://github.com/user-attachments/assets/4a7b3f86-ab26-4401-84ca-118eb459a467)
+<br/><br/>
+**Assessment:**
+* Most minutes are spent being sedentary
+* This supports the hypothesis in the section "Total Steps VS Sedentary Minutes, that users spend more time sedentary than active
 <br/><br/>
 
 ### Distribution of Active Minutes by Hour
@@ -233,7 +241,9 @@ Sample...<br/><br/>
 <br/><br/>
 **Assessment:**
 * Average Very Active Minutes — highest on Monday and Tuesday.
+
 * There is an opportunity to market to people on Monday and Tuesdays from 12-2pm and 6-8pm when they are most likely to be on their phones tracking their activity
+
 * There is an opportunity to start Challenges during these times as well
 <br/><br/>
 
