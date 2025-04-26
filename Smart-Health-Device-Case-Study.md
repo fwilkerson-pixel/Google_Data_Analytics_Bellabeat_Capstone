@@ -67,7 +67,7 @@ The data was collected through a distributed survey conducted via Amazon Mechani
 While the dataset provides valuable insights into user behavior with Fitbit smart devices, there are several important limitations to consider:
 
 **Source and Collection Method:**
-The data was self-reported by participants recruited via Amazon Mechanical Turk (MTurk). This platform tends to attract a specific demographic—typically younger, more tech-savvy individuals—which may introduce selection bias. Additionally, responses were collected over a short time frame (December 3–5, 2016), providing only a limited snapshot of user activity.
+The data was self-reported by participants recruited via Amazon Mechanical Turk (MTurk). This platform tends to attract a specific demographic—typically younger, more tech-savvy individuals—which may introduce selection bias. Additionally, responses were collected over a short time frame, providing only a limited snapshot of user activity.
 
 **Sample Size:**
 Only 30 eligible Fitbit users consented to the submission of their personal activity data. This small sample size limits the statistical power of the analysis and may not fully represent the diversity of the broader smart device user base.
