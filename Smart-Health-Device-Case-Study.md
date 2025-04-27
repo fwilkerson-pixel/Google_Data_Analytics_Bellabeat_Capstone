@@ -191,7 +191,10 @@ Sample...<br/><br/>
 <br/><br/>
 
 ### Activity Minutes By Activity Intensity
-![image](https://github.com/user-attachments/assets/4a7b3f86-ab26-4401-84ca-118eb459a467)
+![image](https://github.com/user-attachments/assets/b185861b-e6a0-4350-8419-43243b4d24f3)
+![image](https://github.com/user-attachments/assets/3eca0ae2-e96a-4f78-8796-c1c5a1bb2741)
+<br/><br/>
+![image](https://github.com/user-attachments/assets/307bbd82-82a6-4277-810c-8717a825fa79)
 <br/><br/>
 **Assessment:**
 * Most minutes are spent being sedentary
