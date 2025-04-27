@@ -270,18 +270,21 @@ Sample...<br/><br/>
 <br/><br/>
 
 ### Hourly Step Recording Activity
-![image](https://github.com/user-attachments/assets/a818e770-ac45-4089-844c-156b2f8e8968)
+![image](https://github.com/user-attachments/assets/7998d0fa-9174-4721-856b-ff365a93096f)
 <br/><br/>
-![image](https://github.com/user-attachments/assets/617aab38-dd37-4178-9a3e-ed630aff8d6c)
+![image](https://github.com/user-attachments/assets/7cf99d24-e119-47e3-b31e-bed5a4b7fea4)
+
 <br/><br/>
 **Assessment:**
 * Steady rise starts around 6 AM
 
-* Peaks during mid-morning to early evening (9 AM to 7 PM)
+* Peaks during mid-morning to early evening 
 
 * Drops sharply after 9 PM, nearly flat overnight
 
-* This visual confirms that users are consistently wearing their devices across most waking hours, with natural dips during sleep.
+* This visual shows that users are consistently wearing their devices across most waking hours, with natural dips during sleep.
+
+* Fitbit will track overnight whole body movement in bed (shifting, etc) as steps
 
 * Users are consistently wearing their devices throughout the entire day and night — not just for workouts. These devices are deeply integrated into their routines. Opportunity to market as 24/7 health tracking or Always-on wellness insights
 <br/><br/>
