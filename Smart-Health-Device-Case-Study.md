@@ -299,7 +299,7 @@ Sample...<br/><br/>
 
 * This can also demonstrate that people are tracking their sleep activity. although using the fact that 24 unique users out of 33 total or 72.7% tracked their sleeping data is a better demonstration of this. Both can be used to demonstrate that “User behavior shows high engagement with sleep tracking features — users are not only wearing their devices at night but are generating structured, consistent sleep data. This reflects widespread interest in tracking and improving sleep quality.
 
-* Other backup data include: 95.8% of users with sleep data logged more than one night ane On average, each user logged about 17 nights of sleep.
+* Other backup data include: 95.8% of users with sleep data logged more than one night and on average, each user logged about 17 nights of sleep.
 
 * “User behavior shows high engagement with sleep tracking features — users are not only wearing their devices at night but are generating structured, consistent sleep data. This reflects widespread interest in tracking and improving sleep quality.”
 
