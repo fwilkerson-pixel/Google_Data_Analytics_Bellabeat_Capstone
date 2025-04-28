@@ -336,13 +336,12 @@ Sample...<br/><br/>
 ### Conclusions
 * Users engage in bursts of movement while still spending much of the day sedentary - consistent with patterns like computer/desk work (e.g office/remote worker or student)
  
-* Activity spikes occured during the following times: (Includes both steps and high intensity workouts)
- 	* Morning spike around 7-9 AM
- 	* Small midday burst near noon
- 	* Evening peak from 5 - 8 PM
+* Workout Activity spikes occured during the following times: (Total Intensity > 20 - Fairly Active and higher)
+  * Small midday burst near noon
+  * Evening peak from 5 - 8 PM
  	
-* The top high intensity workout hours were: (Includes high intensity workouts only)
-	 * 5-7 PM suggesting after-work activity
+* The top high intensity workout hours were: (Total Intensity > 60 -  high intensity workouts only)
+  * 5-7 PM suggesting after-work activity
   * 12-2 PM showing strong midday activity bursts, suggesting workouts during lunch
   	
 * In contrast, early morning (before 6 AM) and late night (after 9 PM) had very few high intensity workout periods.
