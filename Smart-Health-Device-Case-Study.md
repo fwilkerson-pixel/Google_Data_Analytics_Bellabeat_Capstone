@@ -356,13 +356,13 @@ Sample...<br/><br/>
 
 
 ### Recommendations
-* Create app notifications for office/remote works and students. Inactivity reminders and smart nudges can target the most common times these users are sedentary during the day. This will motivate them to stay consistently active throughout the day. (e.g. every hour get up and walk a flight of stairs)
+* Create app notifications for office/remote workers and students. Inactivity reminders and smart nudges can target the most common times these users are sedentary during the day. This will motivate them to stay consistently active throughout the day. (e.g. every hour get up and walk a flight of stairs)
 Marketing Message:
 "Boost your daily movement, even when your work keeps you in a chair."
 
-* Push marketing information to users when they are most likely to be on the app tracking their activity.  These key times are Monday and Tuesdays from 12-2PM and 5-7PM.
+* Push marketing information to users when they are most likely to be on the app tracking their activity.  These key times are on Mondays and Tuesdays from 12-2PM and 5-7PM.
 
-* Start User Challenges when they are most likely to be on the app tracking their activity.  These key times are Monday and Tuesdays from 12-2PM and 5-7PM.
+* Start User Challenges when they are most likely to be on the app tracking their activity.  These key times are on Mondays and Tuesdays from 12-2PM and 5-7PM.
 
 * Because users are consistently wearing their devices throughout the entire day and night, There is an opportunity to market the app as Always-on wellness insights.  Highlight "all-day insights" in product messaging — not just workouts.
 
