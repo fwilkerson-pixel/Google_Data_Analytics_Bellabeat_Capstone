@@ -368,7 +368,7 @@ Marketing Message:
 
 * Users had high engagement with sleep tracking features. This offers an opportunity for the app to be positioned as a sleep optimization coach and a holistic health tool, not just a passive tracker. This is also an opportunity to create smart sleep features (e.g., recovery suggestions, bedtime reminders).
 
-* Because higher caloric expendature is associated with more effecient sleep, Bellabeat can market around the idea that “More active days could contribute to better sleep quality.”
+* Because higher caloric expenditure is associated with more efficient sleep, Bellabeat can market around the idea that “More active days could contribute to better sleep quality.”
 
 
   
